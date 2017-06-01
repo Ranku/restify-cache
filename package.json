@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gergelyke/restify-cache.git"
+    "url": "https://github.com/Ranku/restify-cache.git"
   },
   "keywords": [
     "redis",
@@ -16,15 +16,27 @@
     "cache"
   ],
   "author": "Gergely Nemeth",
+  "contributors": [
+    {
+      "name": "Ian Holt",
+      "email": "ian@goranku.com",
+      "site": "https://github.com/ianvonholt"
+    },
+    {
+      "name": "Sam Clayton",
+      "email": "sam@goranku.com",
+      "site": "https://github.com/SamClayton"
+    }
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gergelyke/restify-cache/issues"
+    "url": "https://github.com/Ranku/restify-cache/issues"
   },
-  "homepage": "https://github.com/gergelyke/restify-cache",
+  "homepage": "https://github.com/Ranku/restify-cache",
   "dependencies": {
-    "hiredis": "~0.4.1",
-    "lodash": "~3.5.0",
-    "redis": "~1.0.0"
+    "hiredis": "^0.4.1",
+    "lodash": "^3.5.0",
+    "redis": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
