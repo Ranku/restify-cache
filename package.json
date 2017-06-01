@@ -1,5 +1,5 @@
 {
-  "name": "restify-cache",
+  "name": "@ranku/restify-cache",
   "version": "0.3.2",
   "description": "Restify cache using Redis",
   "main": "index.js",
