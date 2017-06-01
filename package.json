@@ -1,6 +1,6 @@
 {
   "name": "restify-cache",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Restify cache using Redis",
   "main": "index.js",
   "scripts": {
@@ -34,9 +34,8 @@
   },
   "homepage": "https://github.com/Ranku/restify-cache",
   "dependencies": {
-    "hiredis": "^0.4.1",
-    "lodash": "^3.5.0",
-    "redis": "^1.0.0"
+    "lodash": "^4.17.4",
+    "redis": "^2.7.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
